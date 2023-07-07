@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Shankari Manohar</h1>
 <h3 align="center">Frontend Developer</h3>
 
-- 🔭 I’m currently working on **Waggle [E-Learning Application]**
+- 🔭 I’m currently working on **Pantograph Collision Detection System [Railway Application] **
 
 - 🌱 I’m currently learning **Svelte**
 
-- 💬 Ask me about **React, Redux, Angular, HTML, CSS, Typescript**
+- 💬 Ask me about **React, Redux, Angular, HTML, CSS, Typescript, RTK Query**
 
 - 📫 How to reach me **shankarimanohar10@gmail.com**
 
